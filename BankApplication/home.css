@@ -1,0 +1,15 @@
+img{
+    float: right;
+    width: 35%;
+    height: 30%;
+}
+.con{
+    height: 900px;
+    width: 1000px;
+    /* margin: auto; */
+    margin-top: 200px;
+    margin-left: 400px;
+}
+.navbar{
+    background-color: blue;
+}
